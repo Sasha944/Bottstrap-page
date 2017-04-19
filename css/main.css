@@ -1,0 +1,112 @@
+.wrapper{
+    min-height: 100%;
+    margin-bottom: -100px;
+    padding-bottom: 100px;
+}
+.navbar-brand{
+    font-size: 28px;
+}
+.navbar-header{
+    margin: 0;
+}
+li{
+    height: 52px;
+}
+a{
+    font-size: 21px;
+    height: 52px;
+}
+.h1-top{
+    font-weight:bold;
+}
+.create{
+    font-size: 16px;
+    position: relative;
+    top: 1px;
+    left: 4px;
+}
+.span-row{
+    font-size: 21px;
+    font-weight: bold;
+}
+.dropdown-menu{
+    padding: 0;
+    margin: 0;
+}
+
+.dropdown-menu>li{
+    height: auto;
+    width: 190px;
+    font-size: 0;
+}
+.dropdown-menu>li>a{
+    font-size: 18px;
+    height: auto;
+    padding: 5px 0 5px 15px;
+}
+
+.dropdown{
+    display: inline-block;
+}
+.dropdown-toggle{
+    font-size: 16px;
+}
+
+.glyphicon-triangle-top{
+    font-size: 8px;
+    position: relative;
+    top: -6px;
+    left: 6px;
+}
+.glyphicon-triangle-bottom{
+    font-size: 8px;
+    position: relative;
+    top: 2px;
+    left: -7px;
+}
+.col-xs-3{
+    padding: 0;
+}
+.button{
+    font-size: 0;
+}
+
+.btn-primary{
+    border-radius: 5px 0 0 5px;
+}
+.btn-danger{
+    border-radius: 0 5px 5px 0;
+}
+td{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.main-btn{
+    font-size: 0;
+}
+
+.end{
+    color:blue;
+    border-radius: 0;
+    font-size: 17px;
+
+}
+
+.arrow{
+    font-size: 16px;
+    border-radius: 5px 0 0 5px;
+    padding-bottom: 7.5px;
+    color:blue;
+}
+
+.arrow-right{
+    font-size: 16px;
+    border-radius: 0 5px 5px 0;
+    padding-bottom: 7.5px;
+    color:blue;
+}
+
+footer{
+    height: 100px;
+}
